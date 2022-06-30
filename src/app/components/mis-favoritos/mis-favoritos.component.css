@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+}
+.titulo{
+  text-align: center;
+  width: 100%;
+  font-size: 30px;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgb(10, 21, 31);
+  background-color: antiquewhite;
+}
+
+.btnFavorito{
+  cursor: pointer;
+}

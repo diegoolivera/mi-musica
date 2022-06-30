@@ -1,0 +1,17 @@
+.flex{
+  display: flex;
+  align-items: center;
+  width: 100vw;
+  justify-content: space-between;
+
+}
+
+.listaMusica{
+  width: 50%;
+  margin-left: 20px;
+}
+
+.listaFavoritos{
+  width: 30%;
+  margin-right: 20px;
+}

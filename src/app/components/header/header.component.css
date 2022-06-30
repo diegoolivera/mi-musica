@@ -1,0 +1,9 @@
+header{
+  background-color: black;
+  color: antiquewhite;
+  height: 80px;
+  width: 100vw;
+  display: flex;
+ align-items: center;
+ justify-content: space-around;
+}
